@@ -1228,7 +1228,7 @@ MD.extend({
       width: 980,
       height: 700,
       data: data,
-      identifier: 'com.sketch.material.table',
+      identifier: 'com.sketch.qc.table',
       floatWindow: false,
       callback: function (data) {
         self.configs = self.setConfigs({
@@ -1248,7 +1248,7 @@ MD.extend({
       width: 850,
       height: 680,
       data: data,
-      identifier: 'com.sketch.material.dialogs',
+      identifier: 'com.sketch.qc.dialogs',
       floatWindow: false,
       callback: function (dataFromWebView) {
         MD.dialogsData = dataFromWebView;
@@ -1267,7 +1267,7 @@ MD.extend({
       width: 850,
       height: 450,
       data: data,
-      identifier: 'com.sketch.material.snackbars',
+      identifier: 'com.sketch.qc.snackbars',
       floatWindow: false,
       callback: function (dataFromWebView) {
         MD.snackbarsData = dataFromWebView;
@@ -1286,7 +1286,7 @@ MD.extend({
       width: 500,
       height: 600,
       data: data,
-      identifier: 'com.sketch.material.typography',
+      identifier: 'com.sketch.qc.typography',
       floatWindow: true,
       callback: function (dataFromWebView) {
         MD.typographyData = dataFromWebView;
@@ -1306,7 +1306,7 @@ MD.extend({
       width: 1000,
       height: 650,
       data: data,
-      identifier: 'com.sketch.material.forms',
+      identifier: 'com.sketch.qc.forms',
       floatWindow: false,
       callback: function (dataFromWebView) {
         MD.formsData = dataFromWebView;
@@ -1326,7 +1326,7 @@ MD.extend({
       width: 300,
       height: 500,
       data: data,
-      identifier: 'com.sketch.material.icons',
+      identifier: 'com.sketch.qc.icons',
       floatWindow: true,
       callback: function (data) {
         // self.configs = self.setConfigs({
@@ -1345,7 +1345,7 @@ MD.extend({
       width: 600,
       height: 500,
       data: data,
-      identifier: 'com.sketch.material.resources',
+      identifier: 'com.sketch.qc.resources',
       floatWindow: true,
       callback: function (data) {
         // self.configs = self.setConfigs({

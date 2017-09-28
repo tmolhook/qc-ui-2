@@ -1,11 +1,11 @@
 {
-  "name": "Qualcomm UI System",
+  "name": "QC UI",
   "identifier": "com.websiddu.sketch.material",
   "version": "0.1.7",
   "description": "Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…",
   "appcast": "https://sketch-material.firebaseapp.com/static/sketch/appcast.xml",
   "authorEmail": "siddu.siddhartha@google.com",
-  "author": "Siddhartha Gudipati",
+  "author": "Tyler",
   "menu": {
     "isRoot": false,
     "shortcut": "",
@@ -51,7 +51,7 @@
         ]
       }
     ],
-    "title": "Qualcomm UI System"
+    "title": "QC UI"
   },
   "commands": [
     {

@@ -1,6 +1,6 @@
 {
   "name": "QC UI",
-  "identifier": "com.websiddu.sketch.material",
+  "identifier": "com.tmolhook.sketch.qc",
   "version": "0.1.7",
   "description": "Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…",
   "appcast": "https://sketch-material.firebaseapp.com/static/sketch/appcast.xml",

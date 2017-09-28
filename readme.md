@@ -24,7 +24,7 @@ And many more...
 
 or
 
-[Download latest here](https://github.com/websiddu/sketch-material/raw/master/builds/versions/sketch-material.latest.zip)
+[Download latest here](https://github.com/tmolhook/qc-ui-2/raw/master/builds/versions/qc-ui.latest.zip)
 
 ## Install with Sketch Runner
 With Sketch Runner, just go to the `install` command and search for `sketch-material`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
